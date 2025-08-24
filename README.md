@@ -1,10 +1,13 @@
 
-
 ### Hello, I´m Karen Velazquez! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## <picture><img src = "imagen/cinnamoroll-sanrio-dance.gif" width = 120px></picture> About Me
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="center">Aspiring full-stack developer passionate about learning and developing projects. Beginner, from Mexico.</h3>
+<img src = "imagen/cinnamoroll-sanrio-dance.gif" width = 60px>&nbsp;***About Me***
+
+<img align="right" alt="Coding" width="400" src="imagen/peach-goma-pc-night-keyboard-smashing.gif">
+
+<h4 align="center">Aspiring full-stack developer passionate about learning and developing projects. Beginner, from Mexico.</h4>
 
 - 🎓 &nbsp; Education in Computer Systems Engineering
 - 🚀 &nbsp; Currently:
@@ -15,27 +18,32 @@
 
 
 ### 🛠 &nbsp;My skills include
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+### Languages
 
-## Languages
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 </p>
 
-## Frameworks
+
+
+### Frameworks
 <p align="center">
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white">
 </p>
 
-## IDE
+
+
+### IDE
 <p align="center">
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
 </p>
 
-## Other Tools and Technologies
+### Other Tools and Technologies
 <p align="center">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"> 
@@ -43,7 +51,7 @@
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"> 
 </p>
 
-## Contact me on social media
+### Contact me on social media
 <p align="center">
   <a href="https://www.linkedin.com/in/karen-vel%C3%A1zquez-cardona-b85920362/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> 
@@ -55,7 +63,9 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"> 
   </a>
 </p>
-
+<p align="center">
+  <img src="imagen/divider-cute.gif" height="30" width="40%">
+</p>
 
 
 
