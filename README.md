@@ -1,7 +1,7 @@
 
 ### Hello, I´m Karen Velazquez! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="imagen/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966.gif" height="20" width="100%">
 
 <img src = "imagen/cinnamoroll-sanrio-dance.gif" width = 60px>&nbsp;***About Me***
 
@@ -18,7 +18,7 @@
 
 
 ### 🛠 &nbsp;My skills include
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="imagen/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966.gif" height="20" width="100%">
 
 ### Languages
 
@@ -63,8 +63,9 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"> 
   </a>
 </p>
+
 <p align="center">
-  <img src="imagen/divider-cute.gif" height="30" width="40%">
+  <img src="imagen/divider-red" height="20" width="100%">
 </p>
 
 
