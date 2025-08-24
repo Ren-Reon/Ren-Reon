@@ -1,9 +1,8 @@
 
 
-
 ### Hello, I´m Karen Velazquez! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## <picture><img src = "https://media.tenor.com/P5EJALTMklMAAAAi/cinnamoroll.gif" width = 80px></picture> About Me
+## <picture><img src = "imagen/cinnamoroll-sanrio-dance.gif" width = 120px></picture> About Me
 
 <h3 align="center">Aspiring full-stack developer passionate about learning and developing projects. Beginner, from Mexico.</h3>
 
