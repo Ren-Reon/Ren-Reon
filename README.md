@@ -63,10 +63,8 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"> 
   </a>
 </p>
+<img src="imagen/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966.gif" height="20" width="100%">
 
-<p align="center">
-  <img src="imagen/divider-red" height="20" width="100%">
-</p>
 
 
 
